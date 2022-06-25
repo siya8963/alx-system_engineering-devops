@@ -1,2 +1,2 @@
-#!/binbash
-0-current_working_directory 1-listit
+#!/bin/bash
+ls $search_path > filename.txt
